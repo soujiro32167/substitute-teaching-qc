@@ -1,0 +1,22 @@
+{
+  "name": "substitute-teaching-qc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soujiro32167/substitute-teaching-qc.git"
+  },
+  "author": "Eli K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soujiro32167/substitute-teaching-qc/issues"
+  },
+  "homepage": "https://github.com/soujiro32167/substitute-teaching-qc#readme",
+  "dependencies": {
+    "puppeteer": "^1.12.1"
+  }
+}
